@@ -5,7 +5,7 @@
 
 ## 💡 About This Project
 
-**Chest X-Ray Pulmonary Disease Classifier** is a deep learning project that classifies chest X-ray images into six distinct pulmonary disease categories using a Convolutional Neural Network (CNN) built from scratch with TensorFlow and Keras.
+**Chest X-Ray Pulmonary Disease Classifier** is a deep learning project that classifies chest X-ray images into six distinct pulmonary disease categories using a Convolutional Neural Network (CNN) built using TensorFlow and Keras.
 
 Built as the final project for **MBAI 5310G – AI Programming** at Ontario Tech University (Winter 2026).
 
